@@ -1,9 +1,3 @@
-حتماً! در ادامه یک فایل `README.md` ساده، تمیز و حرفه‌ای برای پروژه `webng-chatbot` آماده کردم:
-
----
-
-### 📄 `README.md` برای پروژه WebNG Sales Chatbot
-
 ```markdown
 # WebNG Sales Chatbot 🤖💬
 
@@ -45,6 +39,7 @@ pip install -r requirements.txt
 ### 4. Set your OpenRouter API key
 
 Edit `app.py` and replace:
+
 ```python
 API_KEY = "your-openrouter-api-key"
 ```
@@ -75,7 +70,20 @@ WebNG is a development team building real-world web applications, AI-based solut
 
 ---
 
+## 👨‍💻 Developed by
+
+This project is developed and maintained by the WebNG team:
+
+- [@Amirhossein-Nafari](https://github.com/Amirhossein-Nafari) – Full-Stack Developer (AI Integration, Frontend, UX)  
+- [@MasoudNafari](https://github.com/MasoudNafari) – Full-Stack Developer (Backend, Flask, API Engineering)
+
+We are a duo of full-stack developers focused on building intelligent, real-world web applications and AI-powered tools.
+
+---
+
 ## 📄 License
 
 MIT License
 ```
+
+---
